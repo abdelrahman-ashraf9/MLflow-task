@@ -39,7 +39,7 @@ mlflow-task/
 ## MLflow Experiment Results
 
 ### UI Screenshot
-![MLflow UI Screenshot](mlflow_results.png)
+![MLflow UI Screenshot](Mlflow_results.png)
 
 ### Comparison Table
 
